@@ -101,4 +101,4 @@ celerybeat-schedule
 .spyderproject
 
 # PDFs
-*.pdf
+pdf/*
